@@ -1,0 +1,5 @@
+{
+  "name": "AI Blog Post Generator",
+  "description": "An AI-powered application that generates professional and informative blog post drafts based on user-defined criteria such as topic, target audience, tone, length, and other specific requests.",
+  "requestFramePermissions": []
+}
