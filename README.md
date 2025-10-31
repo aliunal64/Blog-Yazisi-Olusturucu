@@ -19,4 +19,8 @@ View your app in AI Studio: https://ai.studio/apps/drive/1PeAsyvqvh6dOSUIGMMeeHV
 3. Run the app:
    `npm run dev`
    
-<img width="895" height="386" alt="uygulama" src="https://github.com/user-attachments/assets/3db85f7e-bd60-4ee7-b931-a8a5a4e37bc1" />
+<img width="1919" height="974" alt="Ekran görüntüsü 2025-10-25 131022" src="https://github.com/user-attachments/assets/1d402245-4d9a-41fb-9fa2-59abd8507ab4" />
+
+<img width="1918" height="978" alt="Ekran görüntüsü 2025-10-25 130844" src="https://github.com/user-attachments/assets/d79a8379-08ab-4172-96a1-e48f8d3bed03" />
+
+
